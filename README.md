@@ -20,6 +20,8 @@ Safest Stock           : AAPL at 27.09%
 Optimal Sharpe Ratio   : 0.315
 Optimal Weights        : AAPL 83.8%, AMZN 12.2%, GOOGL 2.7%, MSFT 1.4%
 
+**DASHBOARD PREVIEW**
+![Dashboard](dashboard.png)
 
 **FILES IN THIS PROJECT**
 stockanalysis.ipynb   - Python analysis code
