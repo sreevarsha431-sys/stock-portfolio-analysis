@@ -39,3 +39,18 @@ stock_analysis.pbix   - Power BI dashboard
 **ABOUT**
 End-to-end data analysis project from Python to Power BI.
 Built by Sree Varsha as a portfolio project.
+
+ **Project Overview**
+This project analyzes stock portfolio performance to evaluate returns, risk, and investment efficiency.
+
+---
+
+**Key Insights**
+- Identified top-performing stocks based on return percentage  
+- Compared portfolio diversification and risk exposure  
+- Analyzed trends to support better investment decisions  
+
+---
+
+**Business Impact**
+Helps investors understand portfolio performance and make data-driven investment decisions.
